@@ -1,4 +1,4 @@
-# Madan Patel H S — Engineering Universe
+# Madan Patel H S
 
 An immersive, responsive engineering portfolio built with React, TypeScript, Vite, Tailwind CSS and React Three Fiber.
 
