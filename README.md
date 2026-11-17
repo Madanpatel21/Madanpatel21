@@ -1,9 +1,3 @@
-<!-- ══════════════════════════════════════════════════════════════════════════════
-     MADAN PATEL H S — FUTURISTIC MULTI-STACK ENGINEERING DASHBOARD
-     Single-file GitHub Profile README · Hero · Identity · 8-Domain Tech Matrix ·
-     Complete 19-Repository Showcase · Contribution Telemetry · Architecture Map
-     ══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=MADAN%20PATEL%20H%20S&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20MULTI-STACK%20ENGINEERING&descAlignY=62&descSize=14&descColor=d8ecff" width="100%" alt="Madan Patel H S — Software Developer, Embedded Systems and Multi-Stack Engineering" />
 </div>
