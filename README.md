@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=MADAN%20PATEL%20H%20S&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20EMBEDDED%20SYSTEMS%20%7C%20MULTI-STACK%20ENGINEERING&descAlignY=62&descSize=14&descColor=d8ecff" width="100%" alt="Madan Patel H S — Software Developer, Embedded Systems and Multi-Stack Engineering" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&height=30&lines=Embedded+Systems+%26+Firmware+%C2%B7+C%2FC%2B%2B+%C2%B7+STM32+%C2%B7+ESP32+%C2%B7+RTOS+%C2%B7+Edge+AI;Java+21+%26+Spring+Boot+Microservices+%C2%B7+REST+APIs+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+Redis;SAP+BTP+(CAP+%C2%B7+HANA+%C2%B7+CPI+%C2%B7+Fiori)+%26+Salesforce+(Apex+%C2%B7+LWC+%C2%B7+Aura+%C2%B7+Admin);Full-Stack+TypeScript+%C2%B7+React+%C2%B7+Next.js+15+%C2%B7+Node.js+%C2%B7+Three.js;DevOps+%26+Cloud+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+CI%2FCD+%C2%B7+Observability" alt="Multi-stack engineering domains" />
 </div>
 
