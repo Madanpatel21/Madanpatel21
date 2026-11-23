@@ -15,7 +15,7 @@
   <sub>
     <a href="#identity"><b>01 · IDENTITY</b></a> &nbsp;·&nbsp;
     <a href="#stack"><b>02 · TECH STACK (8 DOMAINS)</b></a> &nbsp;·&nbsp;
-    <a href="#repositories"><b>03 · REPOSITORIES (19)</b></a> &nbsp;·&nbsp;
+    <a href="#repositories"><b>03 · REPOSITORIES (23)</b></a> &nbsp;·&nbsp;
     <a href="#telemetry"><b>04 · TELEMETRY</b></a> &nbsp;·&nbsp;
     <a href="#architecture"><b>05 · ARCHITECTURE</b></a> &nbsp;·&nbsp;
     <a href="#connect"><b>06 · CONNECT</b></a>
